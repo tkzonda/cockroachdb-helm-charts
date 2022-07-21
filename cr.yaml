@@ -1,0 +1,3 @@
+owner: tkzonda
+git-repo: cockroachdb-helm-charts
+package-path: ./packages

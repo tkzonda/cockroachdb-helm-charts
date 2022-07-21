@@ -1,3 +1,6 @@
 .idea
 bin/
 build/artifacts
+packages/*
+!packages/.gitkeep
+.cr-index/index.yaml
