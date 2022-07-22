@@ -1,52 +1,36 @@
 apiVersion: v1
 entries:
   cockroachdb:
-  - apiVersion: v1
-    appVersion: 22.1.4
-    created: "2022-07-22T08:22:09.51646+02:00"
-    description: CockroachDB is a scalable, survivable, strongly-consistent SQL database.
-    digest: bea678dec4089d15d3a1c1d314b9ebbe595731b75331f0ac85fd078f0701b1a0
-    home: https://www.cockroachlabs.com
-    icon: https://raw.githubusercontent.com/cockroachdb/cockroach/master/docs/media/cockroach_db.png
-    maintainers:
-    - email: helm-charts@cockroachlabs.com
-      name: cockroachlabs
-    name: cockroachdb
-    sources:
-    - https://github.com/cockroachdb/cockroach
-    urls:
-    - https://github.com/tkzonda/cockroachdb-helm-charts/releases/download/cockroachdb-8.1.5/cockroachdb-8.1.5.tgz
-    version: 8.1.5
-  - apiVersion: v1
-    appVersion: 22.1.4
-    created: "2022-07-21T21:48:53.317757+02:00"
-    description: CockroachDB is a scalable, survivable, strongly-consistent SQL database.
-    digest: a5d5e17594717bd3e8124d4eab5f7c4b2689c171830ae7cad51c3e8a8010e45c
-    home: https://www.cockroachlabs.com
-    icon: https://raw.githubusercontent.com/cockroachdb/cockroach/master/docs/media/cockroach_db.png
-    maintainers:
-    - email: helm-charts@cockroachlabs.com
-      name: cockroachlabs
-    name: cockroachdb
-    sources:
-    - https://github.com/tkzonda/cockroachdb-helm-charts
-    urls:
-    - https://github.com/tkzonda/cockroachdb-helm-charts/releases/download/cockroachdb-8.1.4/cockroachdb-8.1.4.tgz
-    version: 8.1.4
-  - apiVersion: v1
-    appVersion: 22.1.4
-    created: "2022-07-21T21:26:21.463062+02:00"
-    description: CockroachDB is a scalable, survivable, strongly-consistent SQL database.
-    digest: a2720a3c1b013f16c5c2f39d06d7de022c43a1a2f221510fdeb5fc985c3d8628
-    home: https://www.cockroachlabs.com
-    icon: https://raw.githubusercontent.com/cockroachdb/cockroach/master/docs/media/cockroach_db.png
-    maintainers:
-    - email: helm-charts@cockroachlabs.com
-      name: cockroachlabs
-    name: cockroachdb
-    sources:
-    - https://github.com/tkzonda/cockroachdb-helm-charts
-    urls:
-    - https://github.com/tkzonda/cockroachdb-helm-charts/releases/download/cockroachdb-8.1.3/cockroachdb-8.1.3.tgz
-    version: 8.1.3
-generated: "2022-07-22T08:22:09.516478+02:00"
+    - apiVersion: v1
+      appVersion: 22.1.4
+      created: "2022-07-21T21:26:21.463062+02:00"
+      description: CockroachDB is a scalable, survivable, strongly-consistent SQL database.
+      digest: a2720a3c1b013f16c5c2f39d06d7de022c43a1a2f221510fdeb5fc985c3d8628
+      home: https://www.cockroachlabs.com
+      icon: https://raw.githubusercontent.com/cockroachdb/cockroach/master/docs/media/cockroach_db.png
+      maintainers:
+        - email: helm-charts@cockroachlabs.com
+          name: cockroachlabs
+      name: cockroachdb
+      sources:
+        - https://github.com/tkzonda/cockroachdb-helm-charts
+      urls:
+        - https://github.com/tkzonda/cockroachdb-helm-charts/releases/download/cockroachdb-8.1.3/cockroachdb-8.1.3.tgz
+      version: 8.1.3
+    - apiVersion: v1
+      appVersion: 22.1.4
+      created: "2022-07-22T09:39:22.836366+02:00"
+      description: CockroachDB is a scalable, survivable, strongly-consistent SQL database.
+      digest: f6d101f52230f05befee66f1eca4498c0f002afe483587ff86fb1b2cc11f37a0
+      home: https://www.cockroachlabs.com
+      icon: https://raw.githubusercontent.com/cockroachdb/cockroach/master/docs/media/cockroach_db.png
+      maintainers:
+        - email: helm-charts@cockroachlabs.com
+          name: cockroachlabs
+      name: cockroachdb
+      sources:
+        - https://github.com/cockroachdb/cockroach
+      urls:
+        - https://github.com/tkzonda/cockroachdb-helm-charts/releases/download/cockroachdb-8.1.3-locality/cockroachdb-8.1.3-locality.tgz
+      version: 8.1.3-locality
+generated: "2022-07-22T09:39:22.836392+02:00"
